@@ -18,70 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
-  company = "Ludwig Maximilian University of Munich"
-  company_url = "https://www.ifi.lmu.de/"
-  location = "Germany"
-  date_start = "2019-07-01"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
-  Project Topic: Automated Synthesis of Cyber-Physical Systems: A Compositional Approach.
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Project Team Leader"
-  company = "TUM International Graduate School of Science and Engineering (IGSSE)"
-  company_url = "http://www.igsse.gs.tum.de/index.php?id=5&L=1"
-  location = "Germany"
-  date_start = "2016-01-01"
-  date_end = ""
-  description = """ Project Topic: Platform-Aware Synthesis of Embedded Control Software."""
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Technical University of Munich (TUM)"
-  company_url = "https://www.ei.tum.de/en/welcome/"
-  location = "Germany"
-  date_start = "2016-01-01"
-  date_end = "2019-06-01"
-  description = """ Project Topic: Automated Synthesis of Stochastic Control Systems."""
-  
-[[experience]]
-  title = "Visiting Researcher"
-  company = "University of Pennsylvania"
-  company_url = "http://www.ese.upenn.edu/"
-  location = "USA"
-  date_start = "2019-02-01"
-  date_end = "2019-04-01"
-  description = """ Project Topic: Temporal Logic Synthesis and Verification of Unknown Dynamical Systems."""
-
-[[experience]]
-  title = "Visiting Researcher"
-  company = "Newcastle University"
-  company_url = "https://www.ncl.ac.uk/computing/"
-  location = "UK"
-  date_start = "2019-02-01"
-  date_end = "2019-04-01"
-  description = """ Project Topic: Formal Synthesis and Verification of Stochastic Systems via Barrier Functions."""
-
-[[experience]]
-  title = "Visiting Researcher"
-  company = "Laboratoire des Signaux et Systemes (L2S), CNRS"
-  company_url = "http://www.l2s.centralesupelec.fr/en"
-  location = "France"
-  date_start = "2018-06-01"
-  date_end = "2018-07-01"
-  description = """ Project Topic: Compositional Synthesis of controller for Interconnected Control Systems."""
-
-[[experience]]
-  title = "Senior Research Fellow"
-  company = "Center of Excellence in Complex and Nonlinear Dynamical Systems(CoE-CNDS), VJTI"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "India"
-  date_start = "2014-09-01"
-  date_end = "2015-09-01"
-  description = """ Projects:
-  (1) Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle. (Collaboration: Larsen and Toubro Limited, India)
-  (2) Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (Collaboration: CNRS, France)
-  (3) Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (Collaboration: Indian Institute of Technology, Madras, India)."""  
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
 +++

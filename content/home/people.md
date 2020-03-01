@@ -13,16 +13,19 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Professors",
-                 "PostDoc Researchers",
-                 "PhD Scholars"]
+  user_groups = ["Principal Investigators",
+                 "Researchers",
+                 "Grad Students",
+                 "Administration",
+                 "Visitors",
+                 "Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = false
+  show_interests = true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -43,7 +46,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
- 
+  
 [advanced]
  # Custom CSS. 
  css_style = ""
