@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Pushpak Jagtap
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Technical University of Munich, Germany
+  url: "https://www.ei.tum.de/en/welcome/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Automated verification and synthesis of control systems
+- Control of Cyber-Physical Systems 
+- Stochastic Systems
+- Machine Learning for Control 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Tech in Systems and Control
+    institution: India Institute of Technology, Roorkee, India
+    year: 2014
+  - course: B.E. in Instrumentation Engineering
+    institution: Mumbai University, India
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +42,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:pushpakjagtap@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Pushpak_Jagtap
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Szd98jUAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Pushpak_Jagtap3  
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/PushpakJagtap
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#  icon_pack: ai
+#  link: https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,7 +70,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the  guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Click [here](https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu) for a detailed CV.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Follow me on [twitter](https://twitter.com/Pushpak_Jagtap) to keep informed with my latest research and projects.
+
+
