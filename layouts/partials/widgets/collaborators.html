@@ -18,18 +18,16 @@
   display: table;
 }
 </style> 
-
-
 <div class="row">
   <div class="col-xs-12 col-md-4">
-    <center>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> {{ with $page.Params.subtitle }}&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</center>
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> {{ with $page.Params.subtitle }}</center>
     <p>{{ . | markdownify }}</p>{{ end }}
   </div>
   <div class="row">
     {{range $page.Params.collaborator}}
     {{if eq .show true}}
     <div class="column">
-        <a href="{{.link}}" target="_blank"><img class='collaborator-image' src="/img/collaborators/{{.image}}"/></a>
+        <a href="{{.link}}" target="_blank"><img class='collaborator-image avatar-circle' src="/img/collaborators/{{.image}}" alt="Avatar"/></a>
         <a href="{{.link}}" target="_blank">
       <div class='collaborator-name'>
         {{.id}}
