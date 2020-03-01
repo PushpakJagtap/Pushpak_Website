@@ -32,15 +32,15 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/Pushpak_Jagtap
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Szd98jUAAAAJ&hl=en
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=Szd98jUAAAAJ&hl=en
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Pushpak_Jagtap3  
-- icon: chrome
-  icon_pack: fab
-  link: https://sites.google.com/site/zamani1362/
+# - icon: chrome
+#  icon_pack: fab
+#  link: https://sites.google.com/site/zamani1362/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
