@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Pushpak Jagtap
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Technical University of Munich, Germany
+  url: "https://www.ei.tum.de/en/welcome/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Automated verification and synthesis of control systems
+- Control of Cyber-Physical Systems 
+- Stochastic Systems
+- Machine Learning for Control 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Tech in Systems and Control
+    institution: India Institute of Technology, Roorkee, India
+    year: 2014
+  - course: B.E. in Instrumentation Engineering
+    institution: Mumbai University, India
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
