@@ -80,10 +80,5 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2014-09-01"
   date_end = "2015-09-01"
-  description = """ Project: Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle (PI: Prof. Faruk Kazi)
-  Collaboration: Larsen & Toubro Limited, India
-  Project: Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (PI: Prof. N. M. Singh)
-  Collaboration: French National Center for Scientific Research (CNRS), France
-  Project:Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (PI: Prof. N. M. Singh)
-  Collaboration: Indian Institute of Technology, Madras, India."""  
+  description = """ Project: Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle (PI: Prof. Faruk Kazi). """  
 +++
