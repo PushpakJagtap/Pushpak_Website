@@ -62,7 +62,7 @@ social:
 #  link: https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-{{< figure src="circle_photo.png">}}
+email:""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
