@@ -73,4 +73,14 @@ date_format = "Jan 2006"
   date_end = "2018-07-01"
   description = """ Project Topic: Compositional Synthesis of controller for Interconnected Control Systems."""
 
+[[experience]]
+  title = "Senior Research Fellow"
+  company = "Center of Excellence in Complex and Nonlinear Dynamical Systems(CoE-CNDS), VJTI"
+  company_url = ""
+  location = "India"
+  date_start = "2014-09-01"
+  date_end = "2015-09-01"
+  description = """ Projects: (1) Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle. (Collaboration: Larsen and Toubro Limited, India)
+  (2) Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (Collaboration: CNRS, France)
+  (3) Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (Collaboration: Indian Institute of Technology, Madras, India)."""  
 +++
