@@ -12,7 +12,7 @@ weight = 60
 
 [[collaborator]]
 	id = "Majid Zamani"
-	image = "Majid.jpg"
+	image = "majid.jpg"
 	position = "University of Colorado Boulder, USA"
 	link = "https://sites.google.com/site/zamani1362/"
 	show = true
