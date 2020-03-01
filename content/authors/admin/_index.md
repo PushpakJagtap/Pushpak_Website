@@ -30,6 +30,7 @@ education:
   courses:
   - course: M.Tech in Systems and Control
     institution: India Institute of Technology, Roorkee, India
+    url: "https://www.iitr.ac.in/"
     year: 2014
   - course: B.E. in Instrumentation Engineering
     institution: Mumbai University, India
