@@ -8,7 +8,7 @@ title = "Collaborators"
 subtitle = "Some of the people we work with"
 
 # Order that this section will appear in.
-weight = 68
+weight = 60
 
 [[collaborator]]
 	id = "Majid Zamani"
