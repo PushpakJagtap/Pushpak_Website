@@ -29,8 +29,7 @@ interests:
 education:
   courses:
   - course: M.Tech in Systems and Control
-    institution: India Institute of Technology, Roorkee, India
-    link: "https://www.iitr.ac.in/"
+    institution: [India Institute of Technology, Roorkee](https://www.iitr.ac.in/), India
     year: 2014
   - course: B.E. in Instrumentation Engineering
     institution: Mumbai University, India
@@ -58,9 +57,9 @@ social:
   link: https://github.com/PushpakJagtap
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,8 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the  guidance of Prof. Dr. Majid Zamani at Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at Software and Computational Systems Lab in Ludwig Maximilian University of Munich (LMU),Germany. 
+I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the  guidance of Prof. Dr. Majid Zamani at Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
 
-His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Click [here](https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu) for a detailed CV.
+Follow me on [twitter](https://twitter.com/Pushpak_Jagtap) to keep informed with my latest research and projects.
