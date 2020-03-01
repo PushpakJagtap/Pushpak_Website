@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -237,6 +237,11 @@ plugins_js  = []
     api_key = ""
     index_name = ""
     show_logo = false
+
+# Diplay a logo in navigation bar rather than title (optional).
+	#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+	logo = "cicl_logo.png"
+	# logo = ""
 
 ############################
 ## Maps
