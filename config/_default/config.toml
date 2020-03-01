@@ -57,10 +57,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
-# Diplay a logo in navigation bar rather than title (optional).
-	#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-	logo = "cicl_logo.png"
-	# logo = ""
   
 [imaging]
   resampleFilter = "lanczos"
