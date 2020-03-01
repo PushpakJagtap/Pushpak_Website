@@ -72,13 +72,5 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-07-01"
   description = """ Project Topic: Compositional Synthesis of controller for Interconnected Control Systems."""
-  
-[[experience]]
-  title = "Senior Research Fellow"
-  company = "Center of Excellence in Complex \& Nonlinear Dynamical Systems(CoE-CNDS), VJTI"
-  company_url = ""
-  location = "India"
-  date_start = "2014-09-01"
-  date_end = "2015-09-01"
-  description = """ Project: Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle (PI: Prof. Faruk Kazi). """  
+
 +++
