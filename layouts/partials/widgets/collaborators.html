@@ -27,7 +27,7 @@
     {{range $page.Params.collaborator}}
     {{if eq .show true}}
     <div class="column">
-        <a href="{{.link}}" target="_blank"><img class='collaborator-image avatar-circle' src="/img/collaborators/{{.image}}" alt="Avatar" class="portrait" style="width: 100px; height: 100px;/></a>
+        <a href="{{.link}}" target="_blank"><img class='collaborator-image' src="/img/collaborators/{{.image}}" alt="Avatar" class="portrait" style="width: 100px; height: 100px;/></a>
         <a href="{{.link}}" target="_blank">
       <div class='collaborator-name'>
         {{.id}}
