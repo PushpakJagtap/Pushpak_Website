@@ -76,7 +76,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Research Fellow"
   company = "Center of Excellence in Complex \& Nonlinear Dynamical Systems(CoE-CNDS), VJTI"
-  company_url = "http://www.l2s.centralesupelec.fr/en"
+  company_url = ""
   location = "India"
   date_start = "2014-09-01"
   date_end = "2015-09-01"
