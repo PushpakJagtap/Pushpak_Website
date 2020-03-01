@@ -55,32 +55,4 @@ date_format = "Jan 2006"
   date_end = "2019-04-01"
   description = """ Project Topic: Temporal Logic Synthesis and Verification of Unknown Dynamical Systems."""
 
-[[experience]]
-  title = "Visiting Researcher"
-  company = "Newcastle University"
-  company_url = "https://www.ncl.ac.uk/computing/"
-  location = "UK"
-  date_start = "2019-02-01"
-  date_end = "2019-04-01"
-  description = """ Project Topic: Formal Synthesis and Verification of Stochastic Systems via Barrier Functions."""
-
-[[experience]]
-  title = "Visiting Researcher"
-  company = "Laboratoire des Signaux et Systemes (L2S), CNRS"
-  company_url = "http://www.l2s.centralesupelec.fr/en"
-  location = "France"
-  date_start = "2018-06-01"
-  date_end = "2018-07-01"
-  description = """ Project Topic: Compositional Synthesis of controller for Interconnected Control Systems."""
-  
-[[experience]]
-  title = "Senior Research Fellow"
-  company = "Center of Excellence in Complex \& Nonlinear Dynamical Systems(CoE-CNDS), VJTI"
-  company_url = "http://www.l2s.centralesupelec.fr/en"
-  location = "India"
-  date_start = "2014-09-01"
-  date_end = "2015-09-01"
-  description = """ Project: Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle (PI: Prof. Faruk Kazi) Collaboration: Larsen & Toubro Limited, India
-                Project: Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (PI: Prof. N. M. Singh)  Collaboration: French National Center for Scientific Research (CNRS), France
-     Project:Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (PI: Prof. N. M. Singh) Collaboration: Indian Institute of Technology, Madras, India."""  
 +++
