@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "Collaborators"
 subtitle = ""
 
 [content]
@@ -43,7 +43,13 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+ [Professors]
+	id = "Majid Zamani"
+	image = "Majid.jpg"
+	position = "University of Colorado Boulder"
+	link = "https://sites.google.com/site/zamani1362/"
+	show = true
+ 
 [advanced]
  # Custom CSS. 
  css_style = ""
