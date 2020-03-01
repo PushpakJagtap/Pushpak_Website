@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Pushpak Jagtap
+name: Majid Zamani
 
 # Username (this should match the folder name)
 authors:
-- admin
+- majid
 
 # Is this the primary user of the site?
 superuser: true
@@ -67,8 +67,8 @@ email: "pushpakjagtap@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Professors
+
 ---
 I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the  guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
 
