@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Complex Laplacian-based distributed control for multi-agent network"
+date = 2018-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["A. Deshpande", "P. Jagtap", "P. Bansode", "A. Mahindrakar", "N. M. Singh"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_Advances in Complex Systems_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "This paper, proposes a complex Laplacian-based distributed control scheme for convergence in the multi-agent network. The proposed scheme has been designated as cascade formulation. The proposed technique exploits the traditional method of organizing large scattered networks into smaller interconnected clusters to optimize information flow within the network. The complex Laplacian-based approach results in a hierarchical structure, with the formation of a meta-cluster leading other clusters in the network. The proposed formulation enables flexibility to constrain the eigenspectra of the overall closed-loop dynamics, ensuring desired convergence rate and control input intensity. The sufficient conditions ensuring globally stable formation for the proposed formulation are also asserted. Robustness of the proposed formulation to uncertainties like loss in communication links and actuator failure have also been discussed. The effectiveness of the proposed approach is illustrated by simulating a finitely large network of 30 vehicles."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://www.worldscientific.com/doi/abs/10.1142/S0219525918500157"
+url_preprint = "https://arxiv.org/pdf/1609.05520.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
