@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1,6"
+    publication_type = "1"
     exclude_featured = false
   
 [design]
