@@ -61,11 +61,11 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+# [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**]()"
+  # caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  # focal_point = ""
 +++
