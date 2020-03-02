@@ -1,6 +1,6 @@
 +++
 title = "Synthesis of stochastic systems with partial information via control barrier functions"
-date = 2020-03-02T00:00:00
+date = 2020-03-02T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
