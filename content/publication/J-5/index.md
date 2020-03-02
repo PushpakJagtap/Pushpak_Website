@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Formal synthesis of stochastic systems via control barrier certificates"
+date = 2020-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["P. Jagtap", "S. Soudjani", "M. Zamani"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_IEEE Transactions on Automatic Control(TAC),_( Conditionally accepted)"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "We study formal synthesis of control policies for discrete-time stochastic control systems against complex temporal properties. Our goal is to synthesize a control policy for the system together with a lower bound on the probability that the system satisfies a complex temporal property. The desired properties of the system are expressed as a fragment of linear temporal logic (LTL), called safe-LTL over finite traces. We propose leveraging \emph{control barrier certificates} which alleviate the issue of the curse of dimensionality associated with discretization-based approaches existing in the literature. We show how control barrier certificates can be used for synthesizing policies while guaranteeing lower bounds on the probability of satisfaction for the given property. Our approach decomposes negation of the specification into sequential reachabilities and then finds control barrier certificates for computing upper-bounds on the reachability probabilities. Control policies associated with these barrier certificates are then combined as a hybrid control policy for the concrete system that guarantees a lower bound on the probability of satisfaction of the property. We distinguish uncountable and finite input sets in the computation of barrier certificates. For the former, control barrier certificates can be computed using sum-of-square optimization. For the latter, we develop a computational method based on counter-example guided inductive synthesis. We demonstrate the effectiveness of the proposed approach on a room temperature control and lane keeping of a vehicle modeled as a four-dimensional single-track kinematic model. We compare our results with the discretization-based methods in the literature."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1905.04585"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
