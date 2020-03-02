@@ -1,10 +1,10 @@
 +++
-title = "On the stability of predictive controllers for linear systems with variable time delays"
-date = 2013-07-01T00:00:00
+title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
+date = 2014-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ladino A.", "Patino D."]
+authors = ["P. Jagtap", "G. N. Pillai"]
 
 # Publication type.
 # Legend:
