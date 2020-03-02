@@ -62,7 +62,7 @@ weight = 60
 	id = "Adnane Saoud"
 	image = "Adnane1.jpg"
   position = "Postdoctoral Researcher"
-	position1 = "University of California at Santa Cruz,USA"
+	position1 = "University of California at Santa Cruz, USA"
 	link = "https://sites.google.com/view/adnanesaoud/"
 	show = true   
 +++
