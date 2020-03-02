@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Prediction of ground motion parameters using randomized ANFIS (RANFIS)"
+date = 2016-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["S. Thomas", "G. N. Pillai", "K. Pal", "P. Jagtap"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_Applied Soft Computing_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "TIn this paper, a novel neuro-fuzzy learning machine called randomized adaptive neuro-fuzzy inference system (RANFIS) is proposed for predicting the parameters of ground motion associated with seismic signals. This advanced learning machine integrates the explicit knowledge of the fuzzy systems with the learning capabilities of neural networks, as in the case of conventional adaptive neuro-fuzzy inference system (ANFIS). In RANFIS, to accelerate the learning speed without compromising the generalization capability, the fuzzy layer parameters are not tuned. The three time domain ground motion parameters which are predicted by the model are peak ground acceleration (PGA), peak ground velocity (PGV) and peak ground displacement (PGD). The model is developed using the database released by PEER (Pacific Earthquake Engineering Research Center). Each ground motion parameter is related to mainly to four seismic parameters, namely earthquake magnitude, faulting mechanism, source to site distance and average soil shear wave velocity. The experimental results validate the improved performance of the machine, with lesser computation time compared to prior studies."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S1568494615007929"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1016/j.asoc.2015.12.013"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**](https://www.sciencedirect.com/science/article/abs/pii/S1568494615007929)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
