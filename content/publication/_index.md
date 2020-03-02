@@ -13,3 +13,6 @@ header:
   caption: ""
   image: ""
 ---
+{{% alert note %}}
+* represents authors contributed equally
+{{% /alert %}}
