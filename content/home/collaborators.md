@@ -59,10 +59,10 @@ weight = 60
 	show = true 
   
 [[collaborator]]
-	id = "Jan Křetínský"
-	image = "jan.jpg"
-  position = "Professor"
-	position1 = "Technical University of Munich, Germany"
-	link = "https://www7.in.tum.de/~kretinsk/"
+	id = "Adnane Saoud"
+	image = "Adnane1.jpg"
+  position = "Postdoctoral Researcher"
+	position1 = "University of California at Santa Cruz,USA"
+	link = "https://sites.google.com/view/adnanesaoud/"
 	show = true   
 +++
