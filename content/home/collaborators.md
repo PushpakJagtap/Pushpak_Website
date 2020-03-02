@@ -25,4 +25,36 @@ weight = 60
 	position1 = "Newcastle University, UK"
 	link = "http://homepages.cs.ncl.ac.uk/sadegh.soudjani/"
 	show = true
+  
+[[collaborator]]
+	id = "Majid Zamani"
+	image = "majid.jpg"
+  position = "Professor"
+	position1 = "University of Colorado Boulder, USA"
+	link = "https://sites.google.com/site/zamani1362/"
+	show = true
+
+[[collaborator]]
+	id = "Sadegh Soudjani"
+	image = "Sadegh.jpg"
+  position = "Professor"
+	position1 = "Newcastle University, UK"
+	link = "http://homepages.cs.ncl.ac.uk/sadegh.soudjani/"
+	show = true
+  
+[[collaborator]]
+	id = "Majid Zamani"
+	image = "majid.jpg"
+  position = "Professor"
+	position1 = "University of Colorado Boulder, USA"
+	link = "https://sites.google.com/site/zamani1362/"
+	show = true
+
+[[collaborator]]
+	id = "Sadegh Soudjani"
+	image = "Sadegh.jpg"
+  position = "Professor"
+	position1 = "Newcastle University, UK"
+	link = "http://homepages.cs.ncl.ac.uk/sadegh.soudjani/"
+	show = true  
 +++
