@@ -4,7 +4,7 @@ date = 2020-04-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap*", "A. Swikir*", and "M. Zamani"]
+authors = ["P. Jagtap*", "A. Swikir*", "M. Zamani"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["P. Jagtap*", "A. Swikir*", and "M. Zamani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_The 23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_"
+publication = "_23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
