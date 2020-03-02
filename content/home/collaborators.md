@@ -44,7 +44,7 @@ weight = 60
   
 [[collaborator]]
 	id = "Marco Caccamo"
-	image = "marco.jpg"
+	image = "caccamo.jpg"
   position = "Professor"
 	position1 = "Technical University of Munich, Germany"
 	link = "https://rtsl.cps.mw.tum.de/team/Marco/personalpage/"
