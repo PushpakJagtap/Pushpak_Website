@@ -18,7 +18,7 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE International Advance Computing Conference (IACC)"
+publication = "_IEEE International Advance Computing Conference (IACC)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
