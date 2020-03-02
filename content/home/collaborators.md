@@ -13,14 +13,16 @@ weight = 60
 [[collaborator]]
 	id = "Majid Zamani"
 	image = "majid.jpg"
-	position = "University of Colorado Boulder, USA"
+  position = "Professor"
+	position1 = "University of Colorado Boulder, USA"
 	link = "https://sites.google.com/site/zamani1362/"
 	show = true
 
 [[collaborator]]
 	id = "Sadegh Soudjani"
 	image = "Sadegh.jpg"
-	position = "Newcastle University, UK"
+  position = "Professor"
+	position1 = "Newcastle University, UK"
 	link = "http://homepages.cs.ncl.ac.uk/sadegh.soudjani/"
 	show = true
 +++
