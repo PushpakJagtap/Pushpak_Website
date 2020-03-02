@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "QUEST: A tool for state-space quantization-free synthesis of symbolic controllers"
+date = 2017-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["P. Jagtap", "M. Zamani"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_14th International Conference on Quantitative Evaluation of SysTems (QEST), Lecture Notes in Computer Science 10503_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
@@ -39,9 +39,9 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
-url_code = ""
+url_pdf = "https://link.springer.com/chapter/10.1007%2F978-3-319-66335-7_21"
+url_preprint = ""
+url_code = "https://www.hyconsys.com/software/quest/"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1007/978-3-319-66335-7_21"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
