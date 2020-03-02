@@ -14,5 +14,5 @@ header:
   image: ""
 ---
 {{% alert note %}}
-* represents authors contributed equally
+\* represents authors contributed equally
 {{% /alert %}}
