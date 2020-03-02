@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Compositional abstraction-based synthesis for cascade discrete-time control systems"
+date = 2018-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["A. Saoud*", "P. Jagtap*", "M. Zamani", "A. Girard"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "Abstraction-based synthesis techniques are limited to systems with moderate size. Thus to contribute towards scalability of these techniques, in this paper we propose a compositional abstraction-based synthesis for cascade interconnected discrete-time control systems. Given a cascade interconnection of several components, we provide results on the compositional construction of finite abstractions based on the notion of approximate cascade composition. Then, we provide a compositional controller synthesis for cascade interconnection. Finally, we demonstrate the applicability and effectiveness of the results using a numerical example and compare it with different abstraction and controller synthesis schemes."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2405896318311169"
+url_preprint = "https://hal.archives-ouvertes.fr/hal-01761180/file/root.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1016/j.ifacol.2018.08.003"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**](https://www.sciencedirect.com/science/article/pii/S2405896318311169)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
