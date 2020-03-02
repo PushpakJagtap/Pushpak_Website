@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Symbolic models for retarded jump-diffusion systems"
+date = 2019-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["P. Jagtap", "M. Zamani"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_Automatica_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "In this paper, we provide for the first time an automated, correct-by-construction, controller synthesis scheme for a class of infinite dimensional stochastic systems, namely, retarded jump-diffusion systems. First, we construct finite abstractions approximately bisimilar to non-probabilistic retarded systems corresponding to the original systems having some stability property, namely, incremental input-to-state stability. Then, we provide a result on quantifying the distance between output trajectory of the obtained finite abstraction and that of the original retarded jump-diffusion system in a probabilistic setting. Using the proposed result, one can refine the control policy synthesized using finite abstractions to the original systems while providing guarantee on the probability of satisfaction of high-level requirements. Moreover, we provide sufficient conditions for the proposed notion of incremental stability in terms of the existence of incremental Lyapunov functions which reduce to some matrix inequalities for the linear systems. Finally, the effectiveness of the proposed results is illustrated by synthesizing a controller regulating the temperatures in a ten-room building modelled as a delayed jump-diffusion system."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0005109819305291"
+url_preprint = "https://arxiv.org/abs/1704.03690"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1016/j.automatica.2019.108666"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
