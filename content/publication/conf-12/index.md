@@ -1,6 +1,6 @@
 +++
 title = "Compositional construction of control barrier functions for interconnected control systems"
-date = 2020-04-02T00:00:00
+date = 2020-03-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
