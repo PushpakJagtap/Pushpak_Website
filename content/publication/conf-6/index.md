@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Control of autonomous underwater vehicle using reduced order model predictive control in three dimensional space"
+date = 2016-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["P. Jagtap", "P. Raut", "P. Kumar", "A. Gupta", "N. M. Singh", "F. Kazi"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_IFAC-PapersOnLine_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "The paper investigates the motion control problem of Autonomous Underwater Vehicle (AUV) in three-dimensional space. Here, we consider a non-linear, nonholonomic and highly under-actuated dynamical model of AUV with six degrees of freedom. Because of its higher-dimensional complex model, the traditional model predictive control technique leads to computational complexity and loss of controllability. The paper proposes a novel MPC scheme using reduced dynamical model. In which, the MPC problem to control AUV in vertical and horizontal planes is formulated as independent optimization problems. The proposed scheme reduces higher-dimensional model to two independent time-varying linearized models for controlling motion in vertical and horizontal planes by neglecting weakly coupled dynamics. Further the reduced optimization problem is solved using quadratic programming to achieve trade-off between computational complexity and control effort optimization. The simulation results show the effectiveness of the proposed control scheme which is employed on non-linear model."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2405896316301501"
+url_preprint = "https://www.researchgate.net/publication/301635729_Control_of_Autonomous_Underwater_Vehicle_using_Reduced_Order_Model_Predictive_Control_in_Three_Dimensional_Space"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1016/j.ifacol.2016.03.150"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**](https://www.sciencedirect.com/science/article/pii/S2405896316301501)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
