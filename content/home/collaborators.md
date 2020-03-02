@@ -61,8 +61,16 @@ weight = 60
 [[collaborator]]
 	id = "Adnane Saoud"
 	image = "Adnane1.jpg"
-  position = "Postdoctoral Researcher"
+  position = "Postdoc Fellow"
 	position1 = "University of California at Santa Cruz, USA"
 	link = "https://sites.google.com/view/adnanesaoud/"
-	show = true   
+	show = true 
+
+[[collaborator]]
+	id = "Abdalla Swikir"
+	image = "abdalla.jpeg"
+  position = "PhD Scholar"
+	position1 = "Technical University of Munich, Germany"
+	link = "https://www.hyconsys.com/members/swikir/"
+	show = true 
 +++
