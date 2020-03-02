@@ -56,5 +56,13 @@ weight = 60
   position = "Professor"
 	position1 = "Technical University of Munich, Germany"
 	link = "https://www7.in.tum.de/~kretinsk/"
-	show = true  
+	show = true 
+  
+[[collaborator]]
+	id = "Jan Křetínský"
+	image = "jan.jpg"
+  position = "Professor"
+	position1 = "Technical University of Munich, Germany"
+	link = "https://www7.in.tum.de/~kretinsk/"
+	show = true   
 +++
