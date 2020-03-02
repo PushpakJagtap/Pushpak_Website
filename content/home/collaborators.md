@@ -57,6 +57,14 @@ weight = 60
 	position1 = "Technical University of Munich, Germany"
 	link = "https://www7.in.tum.de/~kretinsk/"
 	show = true 
+
+[[collaborator]]
+	id = "Faruk Kazi"
+	image = "faruk.jpg"
+  position = "Professor"
+	position1 = "VJTI, Mumbai, India"
+	link = "https://www.linkedin.com/in/dr-faruk-kazi-vjti/?originalSubdomain=in"
+	show = false 
   
 [[collaborator]]
 	id = "Adnane Saoud"
