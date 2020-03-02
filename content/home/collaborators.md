@@ -43,18 +43,18 @@ weight = 60
 	show = true
   
 [[collaborator]]
-	id = "Majid Zamani"
-	image = "majid.jpg"
+	id = "Marco Caccamo"
+	image = "marco.jpg"
   position = "Professor"
-	position1 = "University of Colorado Boulder, USA"
-	link = "https://sites.google.com/site/zamani1362/"
+	position1 = "Technical University of Munich, Germany"
+	link = "https://rtsl.cps.mw.tum.de/team/Marco/personalpage/"
 	show = true
 
 [[collaborator]]
-	id = "Sadegh Soudjani"
-	image = "Sadegh.jpg"
+	id = "Jan Křetínský"
+	image = "jan.jpg"
   position = "Professor"
-	position1 = "Newcastle University, UK"
-	link = "http://homepages.cs.ncl.ac.uk/sadegh.soudjani/"
+	position1 = "Technical University of Munich, Germany"
+	link = "https://www7.in.tum.de/~kretinsk/"
 	show = true  
 +++
