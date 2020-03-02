@@ -1,5 +1,5 @@
 +++
-title = "Temporal Logic Verification of Stochastic Systems using Barrier Certificates,"
+title = "Temporal logic verification of stochastic systems using barrier certificates,"
 date = 2018-09-01T00:00:00
 draft = false
 
