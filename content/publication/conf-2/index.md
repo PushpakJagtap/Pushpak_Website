@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Extreme learning ANFIS for control applications"
+date = 2014-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["G. N. Pillai", "P. Jagtap", "G. Nisha"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_IEEE Symposium on Computational Intelligence in Control and Automation (CICA)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "This paper proposes a new neuro-fuzzy learning machine called extreme learning adaptive neuro-fuzzy inference system (ELANFIS) which can be applied to control of nonlinear systems. The new learning machine combines the learning capabilities of neural networks and the explicit knowledge of the fuzzy systems as in the case of conventional adaptive neuro-fuzzy inference system (ANFIS). The parameters of the fuzzy layer of ELANFIS are not tuned to achieve faster learning speed without sacrificing the generalization capability. The proposed learning machine is used for inverse control and model predictive control of nonlinear systems. Simulation results show improved performance with very less computation time which is much essential for real time control."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://ieeexplore.ieee.org/document/7013226"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1109/CICA.2014.7013226"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/7013226)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
