@@ -27,19 +27,19 @@ weight = 60
 	show = true
   
 [[collaborator]]
-	id = "Majid Zamani"
-	image = "majid.jpg"
-  position = "Professor"
-	position1 = "University of Colorado Boulder, USA"
-	link = "https://sites.google.com/site/zamani1362/"
+	id = "Antoine Girard"
+	image = "agirard1.jpg"
+  position = "Senior Researcher"
+	position1 = "CNRS,France"
+	link = "https://sites.google.com/site/antoinesgirard/"
 	show = true
 
 [[collaborator]]
-	id = "Sadegh Soudjani"
-	image = "Sadegh.jpg"
+	id = "George J. Pappas"
+	image = "pappas.jpg"
   position = "Professor"
-	position1 = "Newcastle University, UK"
-	link = "http://homepages.cs.ncl.ac.uk/sadegh.soudjani/"
+	position1 = "University of Pennsylvania, USA"
+	link = "https://www.georgejpappas.org/"
 	show = true
   
 [[collaborator]]
