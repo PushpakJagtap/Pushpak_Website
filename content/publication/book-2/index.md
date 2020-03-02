@@ -1,10 +1,10 @@
 +++
-title = "Comparison of extreme-ANFIS and ANFIS networks for regression problems"
-date = 2014-03-01T00:00:00
+title = "Temporal Logic Verification of Stochastic Systems using Barrier Certificates,"
+date = 2018-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Jagtap", "G. N. Pillai"]
+authors = ["P. Jagtap", "S. Soudjani", "M. Zamani"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["P. Jagtap", "G. N. Pillai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE International Advance Computing Conference (IACC)_"
+publication = "_Automated Technology for Verification and Analysis (ATVA)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
+# abstract = "This paper presents a methodology for temporal logic verification of discrete-time stochastic systems. Our goal is to find a lower bound on the probability that a complex temporal property is satisfied by finite traces of the system. Desired temporal properties of the system are expressed using a fragment of linear temporal logic, called safe LTL over finite traces. We propose to use barrier certificates for computations of such lower bounds, which is computationally much more efficient than the existing discretization-based approaches. The new approach is discretization-free and does not suffer from the curse of dimensionality caused by discretizing state sets. The proposed approach relies on decomposing the negation of the specification into a union of sequential reachabilities and then using barrier certificates to compute upper bounds for these reachability probabilities. We demonstrate the effectiveness of the proposed approach on case studies with linear and polynomial dynamics."
 # Is this a selected publication? (true/false)
 featured = false
 
@@ -39,8 +39,8 @@ projects = []
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6779496"
-url_preprint = "https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems"
+url_pdf = "https://link.springer.com/chapter/10.1007/978-3-030-01090-4_11"
+url_preprint = "https://arxiv.org/abs/1807.00064"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IAdCC.2014.6779496"
+doi = "10.1007/978-3-030-01090-4_11"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -63,7 +63,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**](https://ieeexplore.ieee.org/document/6779496)"
+  caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
