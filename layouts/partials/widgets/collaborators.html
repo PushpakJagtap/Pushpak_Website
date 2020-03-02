@@ -1,5 +1,5 @@
 {{ $ := .root }} {{ $page := .page }}
-<!-- Collaborators widget
+<!-- Collaborators widget -->
 <style>
   * {
   box-sizing: border-box;
@@ -19,31 +19,6 @@
 }
 </style> 
 <div class="row">
-  <div class="col-xs-12 col-md-4">
-    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> {{ with $page.Params.subtitle }}
-    <p>{{ . | markdownify }}</p>{{ end }}
-  </div>
-  <div class="row">
-    {{range $page.Params.collaborator}}
-    {{if eq .show true}}
-    <div class="column">
-        <a href="{{.link}}" target="_blank"><img class='collaborator-image avatar-circle' src="/img/collaborators/{{.image}}" alt="Avatar" style="width: 100px; height: 100px;/></a>
-        <a href="{{.link}}" target="_blank">
-      <div class='collaborator-name'>
-        {{.id}}
-      </div>
-      </a>
-      <div class='collaborator-position'>
-        {{.position}}
-      </div>
-    </div>
-    {{end}}
-    {{end}}
-  </div>
-</div>-->
-          
-<!-- Collaborators widget -->
-<div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> {{ with $page.Params.subtitle }}
     <p>{{ . | markdownify }}</p>{{ end }}
@@ -51,8 +26,8 @@
   <div class="col-xs-12 col-md-8">
     {{range $page.Params.collaborator}}
     {{if eq .show true}}
-    <div class='collaborator-container'>
-        <a href="{{.link}}" target="_blank"><img class='collaborator-image' src="/img/collaborators/{{.image}}" alt="Drawing" /></a>
+    <div class="column">
+        <a href="{{.link}}" target="_blank"><img class='collaborator-image avatar-circle' src="/img/collaborators/{{.image}}" alt="Avatar" style="width: 100px; height: 100px/></a>
         <a href="{{.link}}" target="_blank">
       <div class='collaborator-name'>
         {{.id}}
@@ -65,4 +40,6 @@
     {{end}}
     {{end}}
   </div>
-</div>          
+</div>
+          
+      
