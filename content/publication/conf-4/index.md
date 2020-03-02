@@ -1,5 +1,5 @@
 +++
-title = "Complex Laplacian-based Algorithm for Output Synchronization of Multi-Agent Systems using Internal Model Principle"
+title = "Complex Laplacian-based algorithm for output synchronization of multi-agent systems using internal model principle"
 date = 2015-09-01T00:00:00
 draft = false
 
