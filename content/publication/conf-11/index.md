@@ -18,7 +18,7 @@ authors = ["P. Ashok", "M. Jackermeier", "P. Jagtap", "J. Kretinsky", "M. Weinin
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_the 23rd International Conference on Hybrid Systems: Computation and Control (HSCC)_"
+publication = "_23rd International Conference on Hybrid Systems: Computation and Control (HSCC)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
@@ -61,11 +61,11 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+# [image]
   # Caption (optional)
-  caption = "Taken from paper: [**Figure**]()"
+  # caption = "Taken from paper: [**Figure**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  # focal_point = ""
 +++
