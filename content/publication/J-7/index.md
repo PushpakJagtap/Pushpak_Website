@@ -24,7 +24,7 @@ publication = "_IEEE Transactions on Control of Network Systems (TCNS)_, (Submit
 # Abstract and optional shortened version.
 # abstract = "In this paper, we consider the problem of abstraction-based controller synthesis for interconnected control systems. In general, the conventional methods for the construction of discrete abstractions and synthesis become computationally expensive due to the state and input spaces dimensions while dealing with large interconnected systems. The results in this paper focus on relaxing this issue by providing a compositional framework for the construction of abstractions for interconnected systems. First, we propose a notion of approximate composition which makes it possible to compute an abstraction of the global interconnected system from the abstractions of its components. Second, we propose an incremental procedure for the synthesis of controllers enforcing safety specifications. Finally, we demonstrate the effectiveness of the proposed results on two case studies (viz., DC microgrid and traffic network) by comparing them with different abstraction and controller synthesis schemes."
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
