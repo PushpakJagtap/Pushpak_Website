@@ -58,7 +58,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = true
+math = false
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -98,10 +98,10 @@ coordinates = {latitude = "48.149891", longitude = "11.567441"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -201,25 +201,25 @@ plugins_js  = []
 ############################
 ## Comments
 ############################
-# [comments]
+[comments]
   # Comment provider:
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  # engine = 0
+  engine = 0
 
   # Which page types are commentable?
-  # commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
   # Configuration of Disqus.
-  # [comments.disqus]
-  #  shortname = ""  # Paste the shortname from your Disqus dashboard.
-  #  show_count = true  # Show comment count in page header? (true/false)
+   [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
-  # [comments.commento]
+   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-  #  url = ""
+    url = ""
 
 ############################
 ## Search
