@@ -24,7 +24,7 @@ publication = "_IEEE Transactions on Automatic Control_"
 # Abstract and optional shortened version.
 # abstract = "Incremental stability is a property of dynamical systems ensuring the uniform asymptotic stability of each trajectory rather than a fixed equilibrium point or trajectory. Here, we introduce a notion of incremental stability for stochastic control systems and provide its description in terms of existence of a notion of so-called incremental Lyapunov functions. Moreover, we provide a backstepping controller design scheme providing controllers along with corresponding incremental Lyapunov functions rendering a class of stochastic control systems, namely, stochastic Hamiltonian systems with jumps, incrementally stable. To illustrate the effectiveness of the proposed approach, we design a controller making a spring pendulum system in a noisy environment incrementally stable."
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
