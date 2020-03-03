@@ -10,7 +10,7 @@ summary = "Truck platooning has a great potential to improve road safety, reduce
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Truck Platooning", "Connected & Automated Vehicles"]
+# tags = ["Truck Platooning", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://bit.ly/EnsemblePlatoonEU"
