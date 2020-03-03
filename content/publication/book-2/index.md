@@ -15,7 +15,7 @@ authors = ["P. Jagtap", "S. Soudjani", "M. Zamani"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
 publication = "_Automated Technology for Verification and Analysis (ATVA)_"
