@@ -24,7 +24,7 @@ publication = "_Automatica_"
 # Abstract and optional shortened version.
 # abstract = "In this paper, we provide for the first time an automated, correct-by-construction, controller synthesis scheme for a class of infinite dimensional stochastic systems, namely, retarded jump-diffusion systems. First, we construct finite abstractions approximately bisimilar to non-probabilistic retarded systems corresponding to the original systems having some stability property, namely, incremental input-to-state stability. Then, we provide a result on quantifying the distance between output trajectory of the obtained finite abstraction and that of the original retarded jump-diffusion system in a probabilistic setting. Using the proposed result, one can refine the control policy synthesized using finite abstractions to the original systems while providing guarantee on the probability of satisfaction of high-level requirements. Moreover, we provide sufficient conditions for the proposed notion of incremental stability in terms of the existence of incremental Lyapunov functions which reduce to some matrix inequalities for the linear systems. Finally, the effectiveness of the proposed results is illustrated by synthesizing a controller regulating the temperatures in a ten-room building modelled as a delayed jump-diffusion system."
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
