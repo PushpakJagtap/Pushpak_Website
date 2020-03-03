@@ -24,7 +24,7 @@ publication = "_14th International Conference on Quantitative Evaluation of SysT
 # Abstract and optional shortened version.
 # abstract = "This paper compares the performance of conventional adaptive network based fuzzy inference system (ANFIS) network and extreme-ANFIS on regression problems. ANFIS networks incorporate the explicit knowledge of the fuzzy systems and learning capabilities of neural networks. The proposed new learning technique overcomes the slow learning speed of the conventional learning techniques like neural networks and support vector machines (SVM) without sacrificing the generalization capability. The structure of extreme-ANFIS network is similar to the conventional ANFIS which combines the fuzzy logic's qualitative approach and neural network's adaptive capability. As in the case of extreme learning machines (ELM), the first layer parameters of the proposed learning machine are not tuned. Performance on two regression problems shows that extreme-ANFIS provides better generalization capability and faster learning speed."
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
