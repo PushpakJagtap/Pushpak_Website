@@ -63,4 +63,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}} [See the list all publications (Category wise)]({{< ref "/publication/_index.md" >}}). {{% /alert %}}
+{{% alert note %}} [Click here to see the list of all publications (Category wise)]({{< ref "/publication/_index.md" >}}). {{% /alert %}}
