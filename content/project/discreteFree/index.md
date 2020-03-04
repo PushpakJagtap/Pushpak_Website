@@ -10,10 +10,10 @@ summary = "The conventional finite abstraction based synthesis techniques suffer
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["Truck Platooning", "Connected & Automated Vehicles"]
+# tags = ["Truck Platooning", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://bit.ly/EnsemblePlatoonEU"
+external_link = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
