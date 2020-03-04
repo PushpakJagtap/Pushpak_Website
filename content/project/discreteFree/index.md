@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Formal synthesis using State-Set Discretization-free Finite Abstractions"
+title = "Formal Synthesis using State-Set Discretization-free Finite Abstractions"
 
 # Date this page was created.
 date = 2018-11-10T00:00:00
