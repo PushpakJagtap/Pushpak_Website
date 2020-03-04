@@ -3,10 +3,10 @@
 title = "Compositional Abstraction-based Synthesis"
 
 # Date this page was created.
-date = 2017-11-10T00:00:00
+date = 2018-11-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "As the complexity of constructing symbolic models grows exponentially in the number of state variables in the concrete system, the existing monolithic approaches on the construction of discrete abstractions are unfortunately limited to only low-dimensional control systems."
+summary = "As the complexity of constructing symbolic models grows exponentially in the number of state variables in the concrete system, the existing monolithic approaches on the construction of discrete abstractions are unfortunately limited to only lower dimensional control systems."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,7 +27,7 @@ external_link = ""
 
 +++
 
-As the complexity of constructing symbolic models grows exponentially in the number of state variables in the concrete system, the existing monolithic approaches on the construction of discrete abstractions are unfortunately limited to only low-dimensional control systems. Motivated by the above limitation, we currently aim at proposing a compositional framework for constructing symbolic models for interconnected control systems. Our methodology is based on a divide-and-conquer scheme. In particular, we first (1) partition the overall concrete system into a number of concrete subsystems and construct discrete abstractions of them individually; (2) then establish a compositional scheme that allows us to construct a discrete abstraction of the overall network using those of individual ones. We also aim at improving computation time required for synthesis of controllers by leveraging compositional abstractions.
+As the complexity of constructing symbolic models grows exponentially in the number of state variables in the concrete system, the existing monolithic approaches on the construction of discrete abstractions are unfortunately limited to only lower dimensional control systems. Motivated by the above limitation, we currently aim at proposing a compositional framework for constructing symbolic models for interconnected control systems. Our methodology is based on a divide-and-conquer scheme. In particular, we first (1) partition the overall concrete system into a number of concrete subsystems and construct discrete abstractions of them individually; (2) then establish a compositional scheme that allows us to construct a discrete abstraction of the overall network using those of individual ones. We also aim at improving computation time required for synthesis of controllers by leveraging compositional abstractions.
 
 ## Highlights of the proposed results include:
 * We propose the notion of approximate composition which allow us to use different types abstractions for each subsystem.
