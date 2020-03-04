@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Ensemble"
+title = "Formal synthesis using State-Set Discretization-free Finite Abstractions"
 
 # Date this page was created.
 date = 2018-11-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Truck platooning has a great potential to improve road safety, reduce emissions and increase transport efficiency. Significant advances in platooning technology have been made in the last decade, but to achieve the next step towards deployment of truck platooning, an integral multi-brand approach is required. "
+summary = "The conventional finite abstraction based synthesis techniques suffer from the issue of the curse of dimensionality (i.e., the computational complexity increases exponentially with respect to the state-space dimensions of the concrete systems). Moreover, these approaches are in general limited to finite dimensional systems. To alleviate these issues one can leverage the state-set discretization-free approach for construction of finite abstractions for incrementally stable systems."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Truck Platooning", "Connected & Automated Vehicles"]
+#tags = ["Truck Platooning", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://bit.ly/EnsemblePlatoonEU"
@@ -19,7 +19,7 @@ external_link = "http://bit.ly/EnsemblePlatoonEU"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Scannia"
+ #  caption = "Photo by Scannia"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -27,4 +27,8 @@ external_link = "http://bit.ly/EnsemblePlatoonEU"
 
 +++
 
-The ENSEMBLE consortium will implement and demonstrate multi-brand truck platooning on European roads over the next three years. This paves the way for the adoption of multi-brand truck platooning in Europe that will improve fuel economy, CO2 emissions, traffic capacity and throughput for the road freight sector.
+The conventional finite abstraction based synthesis techniques suffer from the issue of the curse of dimensionality (i.e., the computational complexity increases exponentially with respect to the state-space dimensions of the concrete systems). Moreover, these approaches are in general limited to finite dimensional systems. To alleviate these issues one can leverage the state-set discretization-free approach for construction of finite abstractions for incrementally stable systems.
+
+## Highlights of the proposed results include:
+* We provide a systematic approach for construction of state-set discretization-free finite abstractions for a class of infinite dimensional systems.
+* We develop an open source toolbox (in C++), called QUEST, for state-set discretization-free  synthesis of symbolic controllers.
