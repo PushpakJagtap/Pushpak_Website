@@ -3,7 +3,7 @@
 title = "Incremental Stability for Complex Nonlinear Systems"
 
 # Date this page was created.
-date = 2018-11-10T00:00:00
+date = 2016-01-10T00:00:00
 
 # Project summary to display on homepage.
 summary = "The notion of incremental stability focuses on the convergence of trajectories with respect to each other rather than with respect to an equilibrium point or a fixed trajectory. Considering the advantages of incremental stability property in the construction of symbolic models, our research focuses on providing sufficient conditions and design control strategies enforcing incremental stability property for complex control systems."
