@@ -3,7 +3,7 @@
 title = "Synthesis via State-Set Discretization-free Finite Abstractions"
 
 # Date this page was created.
-date = 2018-11-10T00:00:00
+date = 2016-12-10T00:00:00
 
 # Project summary to display on homepage.
 summary = "The conventional finite abstraction based synthesis techniques suffer from the issue of the curse of dimensionality (i.e., the computational complexity increases exponentially with respect to the state-space dimensions of the concrete systems). Moreover, these approaches are in general limited to finite dimensional systems. To alleviate these issues one can leverage the state-set discretization-free approach for construction of finite abstractions for incrementally stable systems."
