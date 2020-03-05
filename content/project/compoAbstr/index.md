@@ -3,7 +3,7 @@
 title = "Compositional Abstraction-based Synthesis"
 
 # Date this page was created.
-date = 2018-11-10T00:00:00
+date = 2017-01-10T00:00:00
 
 # Project summary to display on homepage.
 summary = "As the complexity of constructing symbolic models grows exponentially in the number of state variables in the concrete system, the existing monolithic approaches on the construction of discrete abstractions are unfortunately limited to only lower dimensional control systems."
