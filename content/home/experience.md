@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "UK"
   date_start = "2019-02-01"
   date_end = "2019-04-01"
-  description = """ Project Topic: Formal Synthesis and Verification of Stochastic Systems via Barrier Functions.[see]{{./project/barrier}}"""
+  description = """ Project Topic: Formal Synthesis and Verification of Stochastic Systems via Barrier Functions.[Click here to see detailed discussion]({{< ref "/project/barrier.md" >}})"""
 
 [[experience]]
   title = "Visiting Researcher"
