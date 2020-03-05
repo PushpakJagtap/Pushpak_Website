@@ -6,7 +6,7 @@ title = "Formal Verification and Synthesis using Barrier Functions"
 date = 2018-11-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Truck platooning has a great potential to improve road safety, reduce emissions and increase transport efficiency. Significant advances in platooning technology have been made in the last decade, but to achieve the next step towards deployment of truck platooning, an integral multi-brand approach is required. "
+summary = "Barrier functions play the analogical role for safety to that of Lyapunov functions for stability. Such functions have the potential to alleviate the issue of so-called _curse of dimensionality_ (i.e., computational complexity grows exponentially with the dimension of the state set) in formal verification and synthesis of dynamical systems using discretization-based techniques."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,14 @@ external_link = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 
 +++
 
-The ENSEMBLE consortium will implement and demonstrate multi-brand truck platooning on European roads over the next three years. This paves the way for the adoption of multi-brand truck platooning in Europe that will improve fuel economy, CO2 emissions, traffic capacity and throughput for the road freight sector.
+Barrier functions play the analogous role for safety to that of Lyapunov functions for stability. Such functions have the potential to alleviate the issue of so-called _curse of dimensionality_ (i.e., computational complexity grows exponentially with the dimension of the state set) in formal verification and synthesis of dynamical systems using discretization-based techniques.
+
+In recent years, there have been many results providing verification and synthesis for safety properties. Here, we are interested in extending those ideas of utilizing barrier functions for formal verification and synthesis of (stochastic) hybrid systems against a more general class of high-level specifications (e.g. those expressed in linear temporal logic or (in)finite strings over automata).
+
+## Highlights of the proposed results include:
+* We provide systematic verification and synthesis of (stochastic) control systems against high-level specifications.
+* We proposed a compositional framework for the construction of barrier functions to improve the scalability of approach to large-scale interconnected systems.
