@@ -32,7 +32,8 @@ projects = []
   focal_point = ""
 +++
 
-* April 21-24, 2020: [Cyber-Physical Systems and Internet-of-Things Week](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html), Sydney, Australia.
+|April 21-24, 2020| [Cyber-Physical Systems and Internet-of-Things Week](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html), Sydney, Australia.|
+
 * April 5-11, 2020: Tutorial/Workshop at ConVeY (Continuous Verification of CYber-Physical Systems) Retreat, Venice, Italy.
 * February 4-April 30, 2019: Research stay at [School of Engineering and Applied Sciences, University of Pennsylvania](https://www.seas.upenn.edu/), Philadelphia, USA .
 * October 7-10, 2018: International Symposium on Automated Technology for Verification and Analysis (ATVA 2018),  Los Angeles, USA.
