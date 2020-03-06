@@ -1,6 +1,6 @@
 +++
 title = "Travel"
-subtitle = "Details about the past ant future workshop/conference/research visits"
+subtitle = "Details about my past and future workshop, conference, and research visits"
 # summary = "Check my experiences on my recent visit to IPAM/UCLA for the workshop on Autonomous Vehicles"
 date = 2019-03-05T18:00:00Z
 draft = false
