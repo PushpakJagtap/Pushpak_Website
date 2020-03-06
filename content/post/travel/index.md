@@ -37,12 +37,13 @@ projects = []
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+| Dates        | Event          | Venue |
+| ------------- |:-------------:| -----:|
+| April 21-24, 2020 | [Cyber-Physical Systems and Internet-of-Things Week](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html) | Sydney, Australia|
+| April 5-11, 2020 | Tutorial/Workshop at ConVeY (Continuous Verification of CYber-Physical Systems) Retreat | Venice, Italy |
+| February 4-April 30, 2019 | Research stay at [School of Engineering and Applied Sciences, University of Pennsylvania](https://www.seas.upenn.edu/) | Philadelphia, USA |
+| October 7-10, 2018 | International Symposium on Automated Technology for Verification and Analysis (ATVA 2018) | Los Angeles, USA |
 
-|April 21-24, 2020| [Cyber-Physical Systems and Internet-of-Things Week](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html), Sydney, Australia.|
-
-* April 5-11, 2020: Tutorial/Workshop at ConVeY (Continuous Verification of CYber-Physical Systems) Retreat, Venice, Italy.
-* February 4-April 30, 2019: Research stay at [School of Engineering and Applied Sciences, University of Pennsylvania](https://www.seas.upenn.edu/), Philadelphia, USA .
-* October 7-10, 2018: International Symposium on Automated Technology for Verification and Analysis (ATVA 2018),  Los Angeles, USA.
 * July 11-13, 2018: IFAC Conference on Analysis and Design of Hybrid Systems, Oxford, UK.
 * June 4-July 10, 2018: Research stay at School of Computing, Newcastle University, Newcastle upon Tyne, UK.
 * March 4-10, 2018: 10th Elgersburg School on Mathematical Systems Theory, Elgersburg, Germany.
