@@ -31,6 +31,12 @@ projects = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 |April 21-24, 2020| [Cyber-Physical Systems and Internet-of-Things Week](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html), Sydney, Australia.|
 
