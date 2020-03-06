@@ -25,7 +25,7 @@
   
 [[main]]
   name = "News"
-  url = "content/post/news/index.md"
+  url = "content/post/news"
   weight = 50
 
 [[main]]
