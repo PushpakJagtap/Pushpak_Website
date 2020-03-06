@@ -22,11 +22,16 @@
   name = "Publications"
   url = "#featured"
   weight = 40
-  
+
 [[main]]
   name = "News"
   url = "/post/news"
   weight = 50
+
+[[main]]
+  name = "Travels"
+  url = "/post/travel"
+  weight = 55
 
 [[main]]
   name = "Contact"
@@ -38,4 +43,4 @@
 [[main]]
   name = "CV"
   url = "https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu"
-  weight = 70
+  weight = 45
