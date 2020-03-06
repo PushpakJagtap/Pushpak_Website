@@ -77,5 +77,3 @@ I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys
 Click [here](https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu) for a detailed CV.
 
 Follow me on [twitter](https://twitter.com/Pushpak_Jagtap) to keep informed with my latest research and projects.
-
-<a href="https://twitter.com/pushpak_jagtap?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pushpak_jagtap</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
