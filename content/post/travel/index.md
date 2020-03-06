@@ -32,8 +32,8 @@ projects = []
   focal_point = ""
 +++
 
-
-| Dates        | Event          | Place |
+| ------------- |:-------------:| -----:|
+| Dates | Event | Place |
 | ------------- |:-------------:| -----:|
 | April 21-24, 2020 | [Cyber-Physical Systems and Internet-of-Things Week](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html) | Sydney, Australia|
 | April 5-11, 2020 | Tutorial/Workshop at ConVeY (Continuous Verification of CYber-Physical Systems) Retreat | Venice, Italy |
@@ -42,7 +42,7 @@ projects = []
 | July 11-13, 2018 | [IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)](https://www.cs.ox.ac.uk/conferences/ADHS18) | Oxford, UK |
 | June 4-July 10, 2018 | Research stay at [School of Computing, Newcastle University](http://www.ncl.ac.uk/computing/) | Newcastle upon Tyne, UK|
 | March 4-10, 2018 | [10th Elgersburg School on Mathematical Systems Theory](https://www.tu-ilmenau.de/math/forschung/tagungen/elgersburg-schools/elgersburg-school-2018/) | Elgersburg, Germany |
-| September 5-7, 2017 | 14th International Conference on Quantitative Evaluation of SysTems (QEST 2017) | Berlin, Germany |
+| September 5-7, 2017 | [14th International Conference on Quantitative Evaluation of SysTems (QEST 2017)](http://www.qest.org/qest2017/) | Berlin, Germany |
 | June 26-28, 2017 | Munich Aerospace Summer Summit on Green Aerospace | Airbus Group, Germany |
 | May 22-23, 2017 | Workshop on Information and Communication Theory in Control Systems | Munich, Germany |
 | March 15-31, 2017 | Research stay at L2S lab centralesupelec, CNRS | Paris, France |
