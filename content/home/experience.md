@@ -36,34 +36,42 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2016-01-01"
   date_end = ""
-  description = """ Project Topic: Platform-Aware Synthesis of Embedded Control Software."""
+  description = """
+  * **PI:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/), **co-PI:** [Prof. Samarjit Chakraborty](https://cs.unc.edu/people/samarjit-chakraborty/), [Prof. Javier Esparza](https://www7.in.tum.de/~esparza/), [Prof. Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
+  * **Project:** Platform-Aware Synthesis of Embedded Control Software."""
 
 [[experience]]
   title = "Research Assistant"
-  company = "Technical University of Munich (TUM)"
+  company = "Department of Electrical and Computer Engineering, Technical University of Munich (TUM)"
   company_url = "https://www.ei.tum.de/en/welcome/"
   location = "Germany"
   date_start = "2016-01-01"
   date_end = "2019-06-01"
-  description = """ Project Topic: Automated Synthesis of Stochastic Control Systems."""
+  description = """ 
+  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/).
+  * **Research Topic:** Automated Synthesis of Stochastic Control Systems."""
   
 [[experience]]
   title = "Visiting Researcher"
-  company = "University of Pennsylvania"
+  company = "Department of Electrical and Systems Engineering, University of Pennsylvania"
   company_url = "http://www.ese.upenn.edu/"
   location = "USA"
   date_start = "2019-02-01"
   date_end = "2019-04-01"
-  description = """ Project Topic: Temporal Logic Synthesis and Verification of Unknown Dynamical Systems."""
+  description = """ 
+  * **Advisor:** [Prof. George J. Pappas](https://www.georgejpappas.org/).
+  * **Research Topic:** Temporal Logic Synthesis and Verification of Unknown Dynamical Systems."""
 
 [[experience]]
   title = "Visiting Researcher"
-  company = "Newcastle University"
+  company = "School of Computing, Newcastle University"
   company_url = "https://www.ncl.ac.uk/computing/"
   location = "UK"
   date_start = "2019-02-01"
   date_end = "2019-04-01"
-  description = """ Project Topic: Formal Synthesis and Verification of Stochastic Systems via Barrier Functions."""
+  description = """
+  * **Advisor:** [Prof. Sadegh Soudjani](http://homepages.cs.ncl.ac.uk/sadegh.soudjani/) 
+  * **Research Topic:** Formal Synthesis and Verification of Stochastic Systems via Barrier Functions."""
 
 [[experience]]
   title = "Visiting Researcher"
@@ -72,7 +80,9 @@ date_format = "Jan 2006"
   location = "France"
   date_start = "2018-06-01"
   date_end = "2018-07-01"
-  description = """ Project Topic: Compositional Synthesis of controller for Interconnected Control Systems."""
+  description = """ 
+  * **Advisor:** [Antoine Girard](https://sites.google.com/site/antoinesgirard/home)
+  * **Research Topic:** Compositional Synthesis of controller for Interconnected Control Systems."""
 
 [[experience]]
   title = "Senior Research Fellow"
@@ -81,8 +91,10 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2014-09-01"
   date_end = "2015-09-01"
-  description = """ Projects:
-  (1) Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle. (Collaboration: Larsen and Toubro Limited, India)
-  (2) Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (Collaboration: CNRS, France)
-  (3) Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (Collaboration: Indian Institute of Technology, Madras, India)."""  
+  description = """ 
+  * **PI:** Prof. Faruk Kazi, **co-PI** Prof. N. M. Singh 
+  * **Projects:**
+  1. Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle. (Collaboration: Larsen and Toubro Limited, India)
+  2. Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (Collaboration: CNRS, France)
+  3. Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (Collaboration: Indian Institute of Technology, Madras, India)."""  
 +++
