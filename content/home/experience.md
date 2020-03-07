@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2019-07-01"
   date_end = ""
-  description = """* **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach. * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/).
+  description = """
+  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/).
+  * **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach. 
   """
 
 [[experience]]
