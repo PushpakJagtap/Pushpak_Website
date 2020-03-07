@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-  Project Topic: Automated Synthesis of Cyber-Physical Systems: A Compositional Approach.
+  * Research Topic: Automated Synthesis of Cyber-Physical Systems: A Compositional Approach.
+  * Advisor: [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
   """
 
 [[experience]]
