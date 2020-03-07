@@ -33,3 +33,6 @@ QUEST is an open source software tool, developed in C++, for automated controlle
 
 ## Download QUEST
 Get latest version of QUEST from github repository [here](https://github.com/PushpakJagtap/QUEST)
+
+## Related publications:
+P. Jagtap, M. Zamani (2017). [QUEST: A tool for state-space quantization-free synthesis of symbolic controllers](https://link.springer.com/chapter/10.1007%2F978-3-319-66335-7_21). 14th International Conference on Quantitative Evaluation of SysTems (QEST), Lecture Notes in Computer Science 10503.
