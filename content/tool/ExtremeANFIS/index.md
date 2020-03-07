@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Extreme-ANFIS:"
+title = "Extreme-ANFIS"
 
 # Date this page was created.
-date = 2018-11-10T00:00:00
+date = 2014-11-10T00:00:00
 
 # Project summary to display on homepage.
 summary = "A MATLAB toolbax for fast and highly accurate learning of neuro-fuzzy systems for regression, MIMO modelling, and Multi-class classification. "
