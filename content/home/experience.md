@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   * <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
   * **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach.
-  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
+  * **Advisor:** <p><span style="color:black">[Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)</span>.</p>
   """
 
 [[experience]]
