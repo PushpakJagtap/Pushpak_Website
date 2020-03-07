@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "QUEST: A Tool for State-Space Quantization-Free Synthesis of Symbolic Controllers"
+title = "QUEST: A Tool for State-Space Quantization-Free Synthesis of Symbolic Controllers (C++ toolbox)"
 
 # Date this page was created.
 date = 2017-11-10T00:00:00
