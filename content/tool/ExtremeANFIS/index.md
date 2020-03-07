@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Extreme-ANFIS"
+title = "Extreme-ANFIS (MATLAB toolbox)"
 
 # Date this page was created.
 date = 2014-11-10T00:00:00
