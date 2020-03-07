@@ -1,25 +1,25 @@
 +++
 # Project title.
-title = "Ensemble"
+title = "Extreme-ANFIS:"
 
 # Date this page was created.
 date = 2018-11-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Truck platooning has a great potential to improve road safety, reduce emissions and increase transport efficiency. Significant advances in platooning technology have been made in the last decade, but to achieve the next step towards deployment of truck platooning, an integral multi-brand approach is required. "
+summary = "A MATLAB toolbax for fast and highly accurate learning of neuro-fuzzy systems for regression, MIMO modelling, and Multi-class classification. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Truck Platooning", "Connected & Automated Vehicles"]
+# tags = ["Truck Platooning", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://bit.ly/EnsemblePlatoonEU"
+external_link = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Scannia"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -27,4 +27,7 @@ external_link = "http://bit.ly/EnsemblePlatoonEU"
 
 +++
 
-The ENSEMBLE consortium will implement and demonstrate multi-brand truck platooning on European roads over the next three years. This paves the way for the adoption of multi-brand truck platooning in Europe that will improve fuel economy, CO2 emissions, traffic capacity and throughput for the road freight sector.
+The Extreme-ANFIS implements a novel neuro-fuzzy learning mechanism develop by us to accelerate and extent the applicability of conventional ANFIS (which is only useful for regression of single-input single-output). The algorithm is useful in many applications such as regression, MIMO modelling, and Multi-class classification.
+
+## Download Exterem-ANFIS
+Get latest version of QUEST from github repository [here](https://github.com/PushpakJagtap/Extreme-ANFIS)
