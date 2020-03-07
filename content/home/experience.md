@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
+  * <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
   * **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach.
   * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
   """
