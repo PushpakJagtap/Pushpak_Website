@@ -31,3 +31,10 @@ The Extreme-ANFIS implements a novel neuro-fuzzy learning mechanism develop by u
 
 ## Download Exterem-ANFIS
 Get latest version of QUEST from github repository [here](https://github.com/PushpakJagtap/Extreme-ANFIS)
+
+## Related publications
+1. P. Jagtap (2014). [Neuro-Fuzzy Systems for Modelling and Control Applications](https://www.researchgate.net/publication/308938224_Neuro-Fuzzy_Systems_for_Modelling_and_Control_Applications). M.Tech. Thesis.
+1. P. Jagtap, G. N. Pillai (2014). [Comparison of extreme-ANFIS and ANFIS networks for regression problems](https://www.researchgate.net/publication/271547114_Comparison_of_extreme-ANFIS_and_ANFIS_networks_for_regression_problems). IEEE International Advance Computing Conference (IACC).
+3. G. N. Pillai, P. Jagtap, G. Nisha (2014). [Extreme learning ANFIS for control applications](https://ieeexplore.ieee.org/document/7013226). IEEE Symposium on Computational Intelligence in Control and Automation (CICA).
+4. P. Jagtap, P. Raut, G. N. Pillai, F. Kazi, N. M. Singh (2015). [Extreme-ANFIS: A novel learning approach for inverse model control of Nonlinear Dynamical Systems](https://ieeexplore.ieee.org/document/7150836). International Conference on Industrial Instrumentation and Control (ICIC).
+5. S. Thomas, G. N. Pillai, K. Pal, P. Jagtap (2016). [Prediction of ground motion parameters using randomized ANFIS (RANFIS)](https://www.sciencedirect.com/science/article/abs/pii/S1568494615007929). Applied Soft Computing.
