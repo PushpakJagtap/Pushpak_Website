@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "dtControl: Decision Tree Learning Algorithms for Controller Representation (Python toolbox)"
+title = "`dtControl`: Decision Tree Learning Algorithms for Controller Representation (Python toolbox)"
 
 # Date this page was created.
 date = 2019-11-10T00:00:00
