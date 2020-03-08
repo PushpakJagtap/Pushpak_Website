@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Ensemble"
+title = "Data-driven Verification and Synthesis of Unknown Systems"
 
 # Date this page was created.
 date = 2018-11-10T00:00:00
