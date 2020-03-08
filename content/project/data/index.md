@@ -27,4 +27,7 @@ external_link = ""
 
 +++
 
-The ENSEMBLE consortium will implement and demonstrate multi-brand truck platooning on European roads over the next three years. This paves the way for the adoption of multi-brand truck platooning in Europe that will improve fuel economy, CO2 emissions, traffic capacity and throughput for the road freight sector.
+There are many complex cyber-physical systems where the precise model description can not be derived analytically and therefore one cannot use model-based techniques in these situations. This makes verification and synthesis problems ensuring reach complex specifications more challenging. In such cases, due to advances in sensor and processing technologies, one can take advantage of data-driven approaches from machine learning to address these problems. Here, we aim to provide probabilistic guarantees that the system trajectories of unknown dynamical systems satisfying complex specifications.
+
+## Highlights of the proposed results include:
+* We propose the synthesis of unknown dynamical systems by utilizing the notions of control barrier functions and Gaussian process models.
