@@ -28,7 +28,7 @@ weight = 90
   
 [[collaborator]]
 	id = "Antoine Girard"
-	image = "majid.jpg"
+	image = "girard.png"
   position = "Senior Researcher"
 	position1 = "CNRS, France"
 	link = "https://sites.google.com/site/antoinesgirard/"
