@@ -3,11 +3,11 @@
 title = "Data-driven Verification and Synthesis of Unknown Systems"
 
 # Date this page was created.
-date = 2019-11-10T00:00:00
+date = 2018-11-10T00:00:00
 
 # Project summary to display on homepage.
 summary = "There are many complex cyber-physical stystems where the precise model description can not
-be derived analytically and therefore one cannot use model-based techniques in these situations. "
+be derived analytically and therefore one cannot use model-based techniques in these situations."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
