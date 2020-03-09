@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Automated verification and synthesis of control systems
+- Automated Verification and Synthesis of Control Systems
 - Control of Cyber-Physical Systems 
 - Stochastic Systems
 - Machine Learning for Control 
@@ -72,7 +72,7 @@ user_groups:
 ---
 
 
-I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the  guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
+I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at the Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at the [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
 
 Click [here](https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu) for a detailed CV.
 
