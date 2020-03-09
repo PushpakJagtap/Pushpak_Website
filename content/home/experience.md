@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Institute of Informatics, Ludwig Maximilian University of Munich"
+  company = "Institute of Informatics, Ludwig Maximilian University of Munich (LMU)"
   company_url = "https://www.ifi.lmu.de/"
   location = "Germany"
   date_start = "2019-07-01"
@@ -86,7 +86,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Research Fellow"
-  company = "Center of Excellence in Complex and Nonlinear Dynamical Systems(CoE-CNDS), VJTI"
+  company = "Center of Excellence in Complex and Nonlinear Dynamical Systems (CoE-CNDS), VJTI"
   company_url = ""
   location = "India"
   date_start = "2014-09-01"
