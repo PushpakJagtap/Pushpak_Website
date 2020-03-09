@@ -27,7 +27,7 @@ external_link = ""
 
 +++
 
-There is a large semantic gap between control algorithms - making idealistic assumptions on the implementation platform (e.g., fault-tolerance architecture, memory requirement, data-rate requirement, etc.) - and their actual implementation on concrete platforms. In this research area, we focus on providing controller code enforcing rich specifications while taking into account the features of the computational platforms.
+There is a large semantic gap between control algorithms - making idealistic assumptions on the implementation platform (e.g., fault-tolerance architecture, memory requirement, data-rate requirement, etc.) and their actual implementation on concrete platforms. In this research area, we focus on providing controller code enforcing rich specifications while taking into account the features of the computational platforms.
 
 ## Highlights of the proposed results include:
 * We proposed a novel approach to design controller that provides safety guarantee on the physical component in presence of application-level and system-level faults through the full system restart.
