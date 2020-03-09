@@ -30,5 +30,5 @@ external_link = ""
 The conventional finite abstraction based synthesis techniques suffer from the issue of the curse of dimensionality (i.e., the computational complexity increases exponentially with respect to the state-space dimensions of the concrete systems). Moreover, these approaches are in general limited to finite dimensional systems. To alleviate these issues one can leverage the state-set discretization-free approach for the construction of finite abstractions for incrementally stable systems.
 
 ## Highlights of the proposed results include:
-* We provide a systematic approach for construction of state-set discretization-free finite abstractions for a class of infinite-dimensional systems.
+* We provide a systematic approach for the construction of state-set discretization-free finite abstractions for a class of infinite-dimensional systems.
 * We develop an open-source toolbox (in C++), called QUEST, for the state-set discretization-free  synthesis of symbolic controllers.
