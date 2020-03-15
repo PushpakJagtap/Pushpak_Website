@@ -72,7 +72,7 @@ user_groups:
 ---
 
 
-I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at the Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at the [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
+Hi, I am Pushpak Jagtap. Currently, I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at the Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at the [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
 
 Click [here](https://drive.google.com/open?id=10GRgu7msoSGRY1tsCCruk-OznBYJOPbu) for a detailed CV.
 
