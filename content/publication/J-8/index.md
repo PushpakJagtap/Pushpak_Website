@@ -22,7 +22,7 @@ publication = "_IEEE Control Systems Letters (L-CSS)_, (Submitted for publicatio
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-abstract = "In this paper, we study formal synthesis of control policies for partially observed jump-diffusion systems against complex logic specifications. Given a state estimator, we utilize a discretization-free approach for formal synthesis of control policies by using a notation of control barrier functions without requiring any knowledge of the estimation accuracy. Our goal is to synthesize a control policy providing (potentially maximizing) a lower bound on the probability that the trajectories of the partially observed jump-diffusion system satisfy some complex specifications expressed by deterministic finite automata. Finally, we illustrate the effectiveness of the proposed results by synthesizing a policy for a jet engine example. "
+# abstract = "In this paper, we study formal synthesis of control policies for partially observed jump-diffusion systems against complex logic specifications. Given a state estimator, we utilize a discretization-free approach for formal synthesis of control policies by using a notation of control barrier functions without requiring any knowledge of the estimation accuracy. Our goal is to synthesize a control policy providing (potentially maximizing) a lower bound on the probability that the trajectories of the partially observed jump-diffusion system satisfy some complex specifications expressed by deterministic finite automata. Finally, we illustrate the effectiveness of the proposed results by synthesizing a policy for a jet engine example. "
 # Is this a selected publication? (true/false)
 featured = false
 
