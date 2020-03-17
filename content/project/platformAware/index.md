@@ -6,7 +6,7 @@ title = "Platform-Aware Synthesis of Embedded Control Software"
 date = 2018-11-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "There is a large semantic gap between control algorithms - making idealistic assumptions on the implementation platform (e.g., fault-tolarence architecture, memory requirement, data-rate requirement, etc.) - and their actual implementation on concrete platforms. "
+summary = "There is a large semantic gap between control algorithms - making idealistic assumptions on the implementation platform (e.g., fault-tolarence architecture, memory requirement, data-rate requirement, etc.) and their actual implementation on concrete platforms."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
