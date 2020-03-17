@@ -1,5 +1,5 @@
 +++
-title = "Software Fault Tolerance for Cyber-Physical Systems via Full System Restart"
+title = "Software fault tolerance for cyber-physical systems via full system restart"
 date = 2020-02-01T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "_ACM Transactions on Cyber-Physical Systems (TCPS)_, (Conditional
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
-# abstract = "The paper addresses the issue of reliability of complex embedded control systems in the safety-critical environment. In this paper, we propose a novel approach to design controller that (i) guarantees the safety of nonlinear physical systems, (ii) enables safe system restart during runtime, and (iii) allows the use of complex, unverified controllers (e.g., neural networks) that drive the physical systems towards complex specifications. We use abstraction-based controller synthesis approach to design a formally verified controller that provides application and system-level fault tolerance along with safety guarantee. Moreover, our approach is implementable using commercial-off-the-shelf (COTS) processing unit. To demonstrate the efficacy of our solution and to verify the safety of the system under various types of faults injected in applications and in the underlying real-time operating system (RTOS), we implemented the proposed controller for the inverted pendulum and three degree-of-freedom (3-DOF) helicopter."
+abstract = "The paper addresses the issue of reliability of complex embedded control systems in the safety-critical environment. In this paper, we propose a novel approach to design controller that (i) guarantees the safety of nonlinear physical systems, (ii) enables safe system restart during runtime, and (iii) allows the use of complex, unverified controllers (e.g., neural networks) that drive the physical systems towards complex specifications. We use abstraction-based controller synthesis approach to design a formally verified controller that provides application and system-level fault tolerance along with safety guarantee. Moreover, our approach is implementable using commercial-off-the-shelf (COTS) processing unit. To demonstrate the efficacy of our solution and to verify the safety of the system under various types of faults injected in applications and in the underlying real-time operating system (RTOS), we implemented the proposed controller for the inverted pendulum and three degree-of-freedom (3-DOF) helicopter."
 # Is this a selected publication? (true/false)
 featured = true
 
@@ -32,7 +32,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["platformaware"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
