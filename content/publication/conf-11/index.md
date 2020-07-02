@@ -46,7 +46,7 @@ url_code = "https://pypi.org/project/dtcontrol/"
 url_dataset = "https://dtcontrol.readthedocs.io/en/latest/"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?time_continue=1&v=K6d3pS6Ege0&feature=emb_logo"
 url_poster = ""
 url_source = ""
 
