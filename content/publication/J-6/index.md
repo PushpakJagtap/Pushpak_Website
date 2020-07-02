@@ -18,7 +18,7 @@ authors = ["P. Jagtap", "F. Abdi", "M. Rungger", "M. Zamani", "M. Caccamo"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_ACM Transactions on Cyber-Physical Systems (TCPS)_, (Conditionally accepted)"
+publication = "_ACM Transactions on Cyber-Physical Systems (TCPS)_,"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
