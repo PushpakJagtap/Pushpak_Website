@@ -18,13 +18,13 @@ authors = ["N. Jahanshahi*", "P. Jagtap*", "M. Zamani"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE Control Systems Letters (L-CSS)_, (Submitted for publication)"
+publication = "_IEEE Control Systems Letters (L-CSS)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
 # abstract = "In this paper, we study formal synthesis of control policies for partially observed jump-diffusion systems against complex logic specifications. Given a state estimator, we utilize a discretization-free approach for formal synthesis of control policies by using a notation of control barrier functions without requiring any knowledge of the estimation accuracy. Our goal is to synthesize a control policy providing (potentially maximizing) a lower bound on the probability that the trajectories of the partially observed jump-diffusion system satisfy some complex specifications expressed by deterministic finite automata. Finally, we illustrate the effectiveness of the proposed results by synthesizing a policy for a jet engine example. "
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,8 +39,8 @@ projects = ["barrier"]
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/2002.02014"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/9115020"
+url_preprint = "https://www.researchgate.net/publication/342112784_Synthesis_of_Partially_Observed_Jump-Diffusion_Systems_via_Control_Barrier_Functions"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/LCSYS.2020.3001562"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
