@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Scholar
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Technical University of Munich, Germany
-  url: "https://www.ei.tum.de/en/welcome/"
+- name: KTH Royal Institute of Technology, Sweden
+  url: "https://www.kth.se/en"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -24,10 +24,14 @@ interests:
 - Automated Verification and Synthesis of Control Systems
 - Control of Cyber-Physical Systems 
 - Stochastic Systems
+- Multi-Agent Systems 
 - Machine Learning for Control 
 
 education:
   courses:
+  - course: Ph.D. in Electrical and Computer Engineering
+    institution: Technical Uiversity of Munich, Munich, Germany
+    year: 2020
   - course: M.Tech in Systems and Control
     institution: India Institute of Technology (IIT), Roorkee, India
     year: 2014
@@ -72,7 +76,7 @@ user_groups:
 ---
 
 
-Hi, I am Pushpak Jagtap. Currently, I am a Ph.D. scholar at [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) lab under the guidance of [Prof. Dr. Majid Zamani](https://sites.google.com/site/zamani1362/) at the Department of Electrical and Computer Engineering in Technical University of Munich (TUM), Germany. I am also working as a research assistant at the [Software and Computational Systems (SoSy)](https://www.sosy-lab.org/) Lab in Ludwig Maximilian University of Munich (LMU), Germany. 
+Hi, I am Pushpak Jagtap. Currently, I am a postdoctoral researcher working with [Prof. Dimos Dimarogonas](https://people.kth.se/~dimos/) at the [Division of Decision and Control Systems](https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078) at the KTH Royal Institute of Technology, Stockholm, Sweden. 
 
 Click [here](https://drive.google.com/file/d/1b2D80_Y_IQ0FlTpwYY7aZULYx8KddENm/view?usp=sharing) for a detailed CV.
 
