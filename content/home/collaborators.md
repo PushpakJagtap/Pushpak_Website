@@ -79,6 +79,6 @@ weight = 90
 	image = "abdalla.jpeg"
   position = "PhD Scholar"
 	position1 = "Technical University of Munich, Germany"
-	link = "https://www.hyconsys.com/members/swikir/"
+	link = "https://sites.google.com/view/swikir/home"
 	show = true 
 +++
