@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = ""
   description = """
-  * **Advisor:** [Prof. Dimos Dimarogonas](https://sites.google.com/site/zamani1362/).
-  * **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach. 
+  * **Advisor:** [Prof. Dimos Dimarogonas](https://sites.google.com/site/zamani1362/)
+  * **Research Topic:** Leader-follower hybrid control and task planning for multi-agent systems under spatiotemporal logic specifications. 
   """
 
 [[experience]]
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2020-06-30"
   description = """
-  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/).
+  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
   * **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach. 
   """
 
@@ -46,10 +46,10 @@ date_format = "Jan 2006"
   company = "TUM International Graduate School of Science and Engineering (IGSSE)"
   company_url = "http://www.igsse.gs.tum.de/index.php?id=5&L=1"
   location = "Germany"
-  date_start = "2016-01-01"
+  date_start = "2018-01-01"
   date_end = "2020-06-30"
   description = """
-  * **PI:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/), **co-PI:** [Prof. Samarjit Chakraborty](https://cs.unc.edu/people/samarjit-chakraborty/), [Prof. Javier Esparza](https://www7.in.tum.de/~esparza/), [Prof. Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
+  * **PI:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/), **co-PI:** [Prof. Samarjit Chakraborty](https://cs.unc.edu/people/samarjit-chakraborty/), [Prof. Javier Esparza](https://www7.in.tum.de/~esparza/), [Prof. Jan Křetínský](https://www7.in.tum.de/~kretinsk/)
   * **Project:** Platform-Aware Synthesis of Embedded Control Software."""
 
 [[experience]]
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2019-06-01"
   description = """ 
-  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/).
+  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
   * **Research Topic:** Automated Synthesis of Stochastic Control Systems."""
   
 [[experience]]
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = "2019-04-01"
   description = """ 
-  * **Advisor:** [Prof. George J. Pappas](https://www.georgejpappas.org/).
+  * **Advisor:** [Prof. George J. Pappas](https://www.georgejpappas.org/)
   * **Research Topic:** Temporal Logic Synthesis and Verification of Unknown Dynamical Systems."""
 
 [[experience]]
