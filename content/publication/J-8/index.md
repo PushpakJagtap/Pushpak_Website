@@ -18,7 +18,7 @@ authors = ["N. Jahanshahi*", "P. Jagtap*", "M. Zamani"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE Control Systems Letters (L-CSS)_"
+publication = "_IEEE Control Systems Letters (L-CSS)_(* equally contributed)"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
