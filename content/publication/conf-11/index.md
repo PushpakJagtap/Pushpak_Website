@@ -40,7 +40,7 @@ projects = ["platformAware"]
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://dl.acm.org/doi/10.1145/3365365.3382220"
 url_preprint = "https://arxiv.org/abs/2002.04991"
 url_code = "https://pypi.org/project/dtcontrol/"
 url_dataset = "https://dtcontrol.readthedocs.io/en/latest/"
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1145/3365365.3382220"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
