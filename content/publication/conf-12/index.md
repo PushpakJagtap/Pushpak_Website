@@ -18,7 +18,7 @@ authors = ["P. Jagtap*", "A. Swikir*", "M. Zamani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_"
+publication = "_23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC)_ (* equally contributed)"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ projects = ["barrier"]
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://dl.acm.org/doi/abs/10.1145/3365365.3382196"
 url_preprint = "https://arxiv.org/abs/2002.00257"
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1145/3365365.3382196"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
