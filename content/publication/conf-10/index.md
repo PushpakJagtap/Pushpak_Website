@@ -18,7 +18,7 @@ authors = ["M. Anand*", "P. Jagtap*", "M. Zamani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_The 58th IEEE Conference on Decision and Control (CDC)_"
+publication = "_The 58th IEEE Conference on Decision and Control (CDC)_ (* equally contributed)"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ projects = ["barrier"]
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/9028862"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/CDC40024.2019.9028862"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
