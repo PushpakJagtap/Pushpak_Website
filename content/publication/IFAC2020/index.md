@@ -18,7 +18,7 @@ authors = ["N. Jahanshahi*", "P. Jagtap*", "M. Zamani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "_21st IFAC World Congress_"
+publication = "_21st IFAC World Congress_ (* equally contributed)"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
