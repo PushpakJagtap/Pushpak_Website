@@ -39,7 +39,7 @@ projects = ["platformAware"]
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1145/3407183"
 url_preprint = "https://arxiv.org/abs/1812.03546"
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1145/3407183"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
