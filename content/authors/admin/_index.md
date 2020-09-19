@@ -78,7 +78,7 @@ user_groups:
 
 Hi, I am Pushpak Jagtap. Currently, I am a postdoctoral researcher working with [Prof. Dimos Dimarogonas](https://people.kth.se/~dimos/) at the [Division of Decision and Control Systems](https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078) at the KTH Royal Institute of Technology, Stockholm, Sweden. As a postdoctoral researcher, I am working on [Wallenberg AI, Autonomous Systems, and Software Program (WASP) project](https://wasp-sweden.org/) funded by the Knut and Alice Wallenberg Foundation. 
 
-Click [here](https://drive.google.com/file/d/1b2D80_Y_IQ0FlTpwYY7aZULYx8KddENm/view?usp=sharing) for a detailed CV.
+Click [here](https://drive.google.com/file/d/1ZkROCH0yVXVMumvzrbFpK8Lz27qbMmI8/view?usp=sharing) for a detailed CV.
 
 Follow me on [twitter](https://twitter.com/Pushpak_Jagtap) to keep informed with my latest research and projects.
 
