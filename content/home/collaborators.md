@@ -19,6 +19,14 @@ weight = 90
 	show = true
 
 [[collaborator]]
+	id = "Dimos V. Dimargonas"
+	image = "dimos.jpg"
+  position = "Professor"
+	position1 = "KTH Royal Institute of Technology, Sweden"
+	link = "https://people.kth.se/~dimos/"
+	show = true 
+  
+[[collaborator]]
 	id = "Sadegh Soudjani"
 	image = "Sadegh.jpg"
   position = "Professor"
@@ -64,12 +72,12 @@ weight = 90
   position = "Professor"
 	position1 = "VJTI, Mumbai, India"
 	link = "https://www.linkedin.com/in/dr-faruk-kazi-vjti/?originalSubdomain=in"
-	show = false 
+	show = true 
   
 [[collaborator]]
 	id = "Adnane Saoud"
 	image = "Adnane1.jpg"
-  position = "Postdoc Fellow"
+  position = "Postdoc Researcher"
 	position1 = "University of California at Santa Cruz, USA"
 	link = "https://sites.google.com/view/adnanesaoud/"
 	show = true 
@@ -77,7 +85,7 @@ weight = 90
 [[collaborator]]
 	id = "Abdalla Swikir"
 	image = "abdalla.jpeg"
-  position = "PhD Scholar"
+  position = "Postdoc Researcher"
 	position1 = "Technical University of Munich, Germany"
 	link = "https://sites.google.com/view/swikir/home"
 	show = true 
