@@ -18,7 +18,7 @@ authors = ["P. Jagtap", "S. Soudjani", "M. Zamani"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE Transactions on Automatic Control(TAC)_,"
+publication = "_IEEE Transactions on Automatic Control(TAC)_"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
