@@ -19,7 +19,7 @@ weight = 90
 	show = true
 
 [[collaborator]]
-	id = "Dimos V. Dimargonas"
+	id = "Dimos Dimargonas"
 	image = "dimos.jpg"
   position = "Professor"
 	position1 = "KTH Royal Institute of Technology, Sweden"
