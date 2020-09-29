@@ -18,7 +18,7 @@ authors = ["P. Jagtap", "S. Soudjani", "M. Zamani"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE Transactions on Automatic Control(TAC)_, (Conditionally accepted)"
+publication = "_IEEE Transactions on Automatic Control(TAC)_,"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ projects = ["barrier"]
 # tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/9157966"
 url_preprint = "https://arxiv.org/abs/1905.04585"
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/TAC.2020.3013916"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
