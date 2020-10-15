@@ -18,7 +18,7 @@ authors = ["A. Saoud*", "P. Jagtap*", "M. Zamani", "A. Girard"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_IEEE Transactions on Control of Network Systems (TCNS)_, (Submitted for publication)"
+publication = "_IEEE Transactions on Control of Network Systems (TCNS)_, (* equally contributed)"
 # publication_short = "In *ACC*"
 
 # Abstract and optional shortened version.
