@@ -10,18 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: KTH Royal Institute of Technology, Sweden
-  url: "https://www.kth.se/en"
+- name: Indian Instite of Science (IISc), Banglore
+  url: "https://cps.iisc.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Automated Verification and Synthesis of Control Systems
+- Nonlinear Control Systems
 - Control of Cyber-Physical Systems 
 - Stochastic Systems
 - Multi-Agent Systems 
@@ -76,7 +77,8 @@ user_groups:
 ---
 
 
-Hi, I am Pushpak Jagtap. Currently, I am a postdoctoral researcher working with [Prof. Dimos Dimarogonas](https://people.kth.se/~dimos/) at the [Division of Decision and Control Systems](https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078) at the KTH Royal Institute of Technology, Stockholm, Sweden. As a postdoctoral researcher, I am working on [Wallenberg AI, Autonomous Systems, and Software Program (WASP) project](https://wasp-sweden.org/) funded by the Knut and Alice Wallenberg Foundation. 
+Hi, I am Pushpak Jagtap. I am an Assistant Professor at [Robert Bosch Center for Cyber-Physical System](https://cps.iisc.ac.in/) in Indian Institute of Science, Banglore, India. 
+#postdoctoral researcher working with [Prof. Dimos Dimarogonas](https://people.kth.se/~dimos/) at the [Division of Decision and Control Systems](https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078) at the KTH Royal Institute of Technology, Stockholm, Sweden. As a postdoctoral researcher, I am working on [Wallenberg AI, Autonomous Systems, and Software Program (WASP) project](https://wasp-sweden.org/) funded by the Knut and Alice Wallenberg Foundation. 
 
 Click [here](https://drive.google.com/file/d/1ZkROCH0yVXVMumvzrbFpK8Lz27qbMmI8/view?usp=sharing) for a detailed CV.
 
