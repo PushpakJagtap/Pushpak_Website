@@ -23,10 +23,10 @@ date_format = "Jan 2006"
   company_url = "https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078"
   location = "Sweden"
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2021-08-30"
   description = """
   * **Advisor:** [Prof. Dimos Dimarogonas](https://sites.google.com/site/zamani1362/)
-  * **Research Topic:** Leader-follower hybrid control and task planning for multi-agent systems under spatiotemporal logic specifications. 
+  * **Research Topic:** Control of Multi-Agent Systems under Temporal Logic Specifications. 
   """
 
 [[experience]]
