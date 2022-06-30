@@ -76,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-
-Hi, I am Pushpak Jagtap. I am an Assistant Professor at [Robert Bosch Center for Cyber-Physical System](https://cps.iisc.ac.in/) in Indian Institute of Science, Banglore, India. 
+Pushpak Jagtap is an Assistant Professor at the [Robert Bosch Center for Cyber-Physical Systems](https://cps.iisc.ac.in/) in the Indian Institute of Science (IISc) Bangalore, India. Before joining IISc, he was a postdoctoral researcher at the [Division of Decision and Control Systems](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078) in the KTH Royal Institute of Technology, Sweden. He received PhD in electrical and computer engineering from the Technical University of Munich, Germany and an M.Tech. in electrical engineering from the Indian Institute of Technology, Roorkee, India. He was recently awarded the prestigious Google India Research Award 2021 for his research works in the field of robotics.
+ 
 
 Click [here](https://drive.google.com/file/d/1ZkROCH0yVXVMumvzrbFpK8Lz27qbMmI8/view?usp=sharing) for a detailed CV.
 
